@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name"		"Chat Adverts"
+	"version"	"1.0"
+	"up_date"	""
+	"author_name"	"Linger7"
+	"author_email"	""
+	"author_url"	"https://github.com/Linger7/FS_Admin"
+	
+	"info"		"Print Messages in chat to all players"
+	
+	"GCFRequires"
+	{
+	}
+}
